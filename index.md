@@ -16,3 +16,8 @@ while (i >= 0):
   i -= 1
 print("Blast Off!")
 ```
+
+### To-Do List
+- [ ] Be rich
+- [ ] Be famous
+- [ ] Travel the world
